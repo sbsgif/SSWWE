@@ -3095,8 +3095,6 @@ footer {
 }
 
 #pricing .price-block-wrapper:hover {
-
-  box-shadow: 0 1px 30px #754c29;
   cursor: pointer;
 }
 
@@ -4228,7 +4226,7 @@ polygon {
 }
 
 .container2 {
-  width: 70%;
+  width: 100%;
   /* Adjust width as needed */
   margin: 20px auto;
   /* Center the card horizontally */
