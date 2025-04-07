@@ -4226,7 +4226,7 @@ polygon {
 }
 
 .container2 {
-  width: 100%;
+  width: 70%;
   /* Adjust width as needed */
   margin: 20px auto;
   /* Center the card horizontally */
@@ -4328,7 +4328,7 @@ polygon {
 
 @media (min-width: 992px) {
   .testimonials .testimonial-item p {
-    width: 80%;
+    width: 100%;
   }
 }
 
