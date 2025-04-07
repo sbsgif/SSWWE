@@ -4713,7 +4713,9 @@ polygon {
     font-size: 1rem;
   }
   .popupBox {
-
+    align-items: center;
+    align-self: center;
+    align-content: center;
     width: 100%;
   }
 
