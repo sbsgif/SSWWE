@@ -4660,7 +4660,7 @@ polygon {
 
 
 .glow {
-  color: linear-gradient(65deg, #21a0db 0%, #f6de04 60%, #00a64f 100%);
+  background: linear-gradient(65deg, #21a0db 0%, #f6de04 60%, #00a64f 100%);
   -webkit-background-clip: text;
             background-clip: text;
     -webkit-text-fill-color: transparent;
