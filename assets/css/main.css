@@ -4660,13 +4660,12 @@ polygon {
 
 
 .glow {
-  color: white;
+  color: linear-gradient(65deg, #21a0db 0%, #f6de04 60%, #00a64f 100%);
   font-size: 40px;
   line-height: 48px;
   text-transform: uppercase;
-  font-weight: 900;
+  font-weight: 1200;
   margin-bottom: 22px;
-  animation: neonGlow 2s infinite alternate cubic-bezier(0.455, 0.030, 0.515, 0.955);
 }
 
 @keyframes neonGlow {
