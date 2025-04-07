@@ -4712,6 +4712,10 @@ polygon {
 
     font-size: 1rem;
   }
+  .popupBox {
+
+    width: 100%;
+  }
 
   .popupBox__btn {
     height: 40px;
